@@ -1,0 +1,9 @@
+name: ServerInfo
+main: Omega892\ServerInfo\Main
+version: 1.0.0
+api: 5.0.0
+author: omega892
+
+permissions:
+  serverinfo.cmd.use:
+    default: op
